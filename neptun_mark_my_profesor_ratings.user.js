@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name           Neptun Mark My Professor Ratings
 // @namespace      http://tampermonkey.net/
-// @version        0.1.0
-// @downloadURL    https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.js
-// @updateURL      https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.js
+// @version        0.1.1
+// @downloadURL    https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.user.js
+// @updateURL      https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.user.js
 // @description    Shows lecturer ratings in Neptun from www.markmyprofessor.com
 // @icon           https://i.imgur.com/QShZWua.png
 // @author         UnicodeError0041
