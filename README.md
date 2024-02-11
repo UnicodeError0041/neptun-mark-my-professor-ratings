@@ -20,7 +20,7 @@ The names become links to the relevant rating pages.
 
 Unfortunately, multiple people can have the same name, which can lead to confusion and the wrong rating getting displayed. Therefore, the script needs to know the relevant universities and the relevant departments.
 
-1. After you downloaded the script, click [here]("https://www.markmyprofessor.com/en/schools").
+1. After you downloaded the script, click [here](https://www.markmyprofessor.com/en/schools).
 
 ![school selection page](school_page.png)
 
