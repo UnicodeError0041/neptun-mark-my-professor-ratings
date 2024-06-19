@@ -1,21 +1,21 @@
 // ==UserScript==
 // @name           Neptun Mark My Professor Ratings
 // @namespace      http://tampermonkey.net/
-// @version        0.1.2
+// @version        0.1.3
 // @description    Shows lecturer ratings in Neptun from www.markmyprofessor.com
 // @downloadURL    https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.user.js
 // @updateURL      https://github.com/UnicodeError0041/neptun-mark-my-professor-ratings/raw/main/neptun_mark_my_professor_ratings.user.js
 // @icon           https://i.imgur.com/QShZWua.png
 // @author         UnicodeError0041
-// @match          https://*neptun*/*hallgato*/*
-// @match          https://*neptun*/*Hallgatoi*/*
-// @match          https://*neptun*/*oktato*/*
-// @match          https://*hallgato*.*neptun*/*
-// @match          https://*oktato*.*neptun*/*
-// @match          https://netw*.nnet.sze.hu/hallgato/*
-// @match          https://nappw.dfad.duf.hu/hallgato/*
-// @match          https://host.sdakft.hu/*
-// @match          https://neptun.ejf.hu/ejfhw/*
+// @include        https://*neptun*/*hallgato*/*
+// @include        https://*neptun*/*Hallgatoi*/*
+// @include        https://*neptun*/*oktato*/*
+// @include        https://*hallgato*.*neptun*/*
+// @include        https://*oktato*.*neptun*/*
+// @include        https://netw*.nnet.sze.hu/hallgato/*
+// @include        https://nappw.dfad.duf.hu/hallgato/*
+// @include        https://host.sdakft.hu/*
+// @include        https://neptun.ejf.hu/ejfhw/*
 // @match          https://www.markmyprofessor.com/search?q=*
 // @match          https://www.markmyprofessor.com/*/schools*
 // @match          https://www.markmyprofessor.com/schools*
